@@ -1,0 +1,9 @@
+ultralytics==8.2.60
+cvzone==1.6.1
+streamlit==1.36.0
+matplotlib==3.7.1
+numpy==1.25.2
+pandas==2.0.3
+easyocr==1.7.1
+filterpy==1.4.5
+scikit-image==0.19.3
